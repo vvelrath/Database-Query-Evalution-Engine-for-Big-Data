@@ -1,4 +1,4 @@
-Database Query Evaluation Engine for Big Data 
+Query Evaluation Engine for Big Data 
 ==============================
 
 ### Team members
